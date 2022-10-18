@@ -1,5 +1,8 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-My Name is Waldo and this is what I do now.
+
+<div align="center">
+### Hi there, Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+And this is what I do now.
+</div>
 <h3 align="center">
  My Tech Stack:
 </h3>
