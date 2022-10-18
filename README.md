@@ -5,7 +5,7 @@
  </h1>
 </div>
 <div align="center">
-<h3 align="center">
+<h2 align="center">
  My Tech Stack:
 <br>
 <p align="center">
@@ -19,7 +19,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
  <code><img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>
 </p>
-</h3>
+</h2>
  </div>
 
 <h2 align='center'>⚡️<i>Thanks For Adding To My Count!</i>⚡️
