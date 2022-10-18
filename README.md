@@ -4,6 +4,7 @@
    Hi there, Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
  </h1>
 </div>
+<div align="center">
 <h3 align="center">
  My Tech Stack:
 <br>
@@ -19,6 +20,7 @@
  <code><img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>
 </p>
 </h3>
+ </div>
 
 <h2 align='center'>⚡️<i>Thanks For Adding To My Count!</i>⚡️
  <br>
