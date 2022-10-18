@@ -9,10 +9,10 @@
 <div align="center">
 <img src='https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh&no-frame=true'>
 </div>
- 
+<div>
+ </div>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaldoDoestech&theme=vision-friendly-dark&hide_border=true&count_private=true)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=WaldoDoesTech&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
- 
 
 <p align="center">
  My Tech Stack:
