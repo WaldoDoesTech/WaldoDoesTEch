@@ -4,10 +4,11 @@
    Hey! Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
  </h1>
 </div>
-<div align="center">
+
  <h3>My Trophies</h3>
+ <div align="center">
  [![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech)](https://github.com/WaldoDoesTech/github-profile-trophy)
-</div>
+ </div>
 <p align="center">
  My Tech Stack:
 </p>
