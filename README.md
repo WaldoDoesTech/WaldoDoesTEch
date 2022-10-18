@@ -9,6 +9,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh)](https://github.com/WaldoDoesTech/github-profile-trophy)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=WaldoDoesTech)](https://git.io/streak-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaldoDoestech&count_private=true)
 
 <p align="center">
  My Tech Stack:
