@@ -26,6 +26,6 @@
  <br>
  <img src="https://profile-counter.glitch.me/WaldoDoesTEch/count.svg" />
  <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="400" alt="Github Stats" />
  </p>
 </h2>
