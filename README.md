@@ -6,9 +6,9 @@
 </div>
 
  <h3>My Trophies</h3>
- <p align="center">
+
  [![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech)](https://github.com/WaldoDoesTech/github-profile-trophy)
- </p>
+
 <p align="center">
  My Tech Stack:
 </p>
