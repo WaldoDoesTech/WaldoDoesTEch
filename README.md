@@ -4,8 +4,8 @@
    Hey! Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
  </h1>
 </div>
-
- <ins>My Trophies</ins>
+ 
+ <h3><ins>My Trophies</ins></h3>
 <div align="center">
 <img src='https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh&no-frame=true'>
 </div>
