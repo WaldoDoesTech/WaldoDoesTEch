@@ -18,13 +18,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
  <code><img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>
 </p>
-<h3 align="center" decoration="underlined"> 
-  Profile Visits
-  <br>
-  <img src="https://profile-counter.glitch.me/WaldoDoesTEch/count.svg" />
-</h3>
 
-<h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Thanks For Adding To My Count!</i>⚡️</h1>
+<img src="https://profile-counter.glitch.me/WaldoDoesTEch/count.svg" />
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
