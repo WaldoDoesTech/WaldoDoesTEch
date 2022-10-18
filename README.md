@@ -23,3 +23,9 @@
   <br>
   <img src="https://profile-counter.glitch.me/WaldoDoesTEch/count.svg" />
 </h3>
+
+<h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
