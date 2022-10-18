@@ -5,6 +5,8 @@
  </h1>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech)](https://github.com/WaldoDoesTech/github-profile-trophy)
+
 <p align="center">
  My Tech Stack:
 </p>
