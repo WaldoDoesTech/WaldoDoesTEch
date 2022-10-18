@@ -14,9 +14,9 @@
 <img width="420px;" src="https://github-readme-stats.vercel.app/api?username=WaldoDoestech&theme=vision-friendly-dark&hide_border=true&count_private=true">
 <img width="420px;" src="https://streak-stats.demolab.com/?user=WaldoDoesTech&theme=highcontrast&hide_border=true">
 </p>
-<p align="center">
+<ins align="center">
  My Tech Stack:
-</p>
+</ins>
 
 <h1 align="center">
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
