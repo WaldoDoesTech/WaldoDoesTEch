@@ -7,7 +7,7 @@
 
  <h3>My Trophies</h3>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh&hide_border=true)](https://github.com/WaldoDoesTech/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh&no-frame=true)](https://github.com/WaldoDoesTech/github-profile-trophy)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaldoDoestech&theme=vision-friendly-dark&hide_border=true&count_private=true)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=WaldoDoesTech&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
