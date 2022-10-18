@@ -22,7 +22,7 @@
 </h1>
 
 
-<h2 align='center'>⚡️<i>Thanks For Adding To My Count!</i>⚡️
+<h2 align='center'>⚡️<i>Thanks For Adding To My Visitor Count!</i>⚡️
  <br>
  <img src="https://profile-counter.glitch.me/WaldoDoesTEch/count.svg" />
  <p align="center">
