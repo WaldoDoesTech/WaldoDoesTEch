@@ -5,7 +5,7 @@
  </h1>
 </div>
  
- <h3><ins>My Trophies</ins></h3>
+ <h3 align="center"><ins>My Trophies</ins></h3>
 <div align="center">
 <img src='https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh&no-frame=true'>
 </div>
