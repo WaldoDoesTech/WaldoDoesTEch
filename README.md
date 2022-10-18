@@ -10,7 +10,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh)](https://github.com/WaldoDoesTech/github-profile-trophy)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaldoDoestech&theme=vision-friendly-dark&count_private=true)
- [![GitHub Streak](https://streak-stats.demolab.com/?user=WaldoDoesTech&theme=highcontrast)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=WaldoDoesTech&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
  
 
 <p align="center">
