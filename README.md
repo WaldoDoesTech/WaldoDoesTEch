@@ -1,7 +1,7 @@
 
 <div align="center">
  <h1>
-   Hi there, Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+   Hey! Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
  </h1>
 </div>
 
