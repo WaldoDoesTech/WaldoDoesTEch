@@ -20,9 +20,10 @@
 </p>
 
 <h2 align='center'>⚡️<i>Thanks For Adding To My Count!
+ <br>
  <img src="https://profile-counter.glitch.me/WaldoDoesTEch/count.svg" />
  </i>⚡️
- <br>
+ 
  <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
  </p>
