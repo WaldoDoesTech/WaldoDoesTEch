@@ -7,7 +7,7 @@
 
  <h3>My Trophies</h3>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech)](https://github.com/WaldoDoesTech/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh)](https://github.com/WaldoDoesTech/github-profile-trophy)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=WaldoDoesTech)](https://git.io/streak-stats)
 
 <p align="center">
