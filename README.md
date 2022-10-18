@@ -19,11 +19,12 @@
  <code><img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>
 </p>
 
-<h3 align='center'>⚡️<i>Thanks For Adding To My Count!
+<h2 align='center'>⚡️<i>Thanks For Adding To My Count!
  <img src="https://profile-counter.glitch.me/WaldoDoesTEch/count.svg" />
+ </i>⚡️
  <br>
  <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
  </p>
- </i>⚡️
-</h3>
+
+</h2>
