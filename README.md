@@ -1,8 +1,8 @@
 ### Hi there 👋
 My Name is Waldo and this is what I do now.
-<h1 align="center">
- #My Tech Stack:#
-</h1>
+<h3 align="center">
+ My Tech Stack:
+</h3>
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -13,8 +13,8 @@ My Name is Waldo and this is what I do now.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 </p>
-<p align="center"> 
-  #Profile Visits#
+<h3 align="center" decoration="underlined"> 
+  Profile Visits
   <br>
   <img src="https://profile-counter.glitch.me/WaldoDoesTEch/count.svg" />
-</p>
+</h3>
