@@ -1,8 +1,11 @@
 
 <div align="center">
+ <h1>
+   Hi there, Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+ </h1>
+ <br>
  <h2>
-### Hi there, Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-And this is what I do now.
+   And this is what I do now.
  </h2>
 </div>
 <h3 align="center">
