@@ -1,7 +1,9 @@
 
 <div align="center">
+ <h2>
 ### Hi there, Im <a href="#.">Waldo</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 And this is what I do now.
+ </h2>
 </div>
 <h3 align="center">
  My Tech Stack:
