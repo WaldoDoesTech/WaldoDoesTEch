@@ -10,8 +10,8 @@
 <img src='https://github-profile-trophy.vercel.app/?username=WaldoDoesTech&theme=juicyfresh&no-frame=true'>
 </div>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=WaldoDoestech&theme=vision-friendly-dark&hide_border=true&count_private=true">
-<img src="https://streak-stats.demolab.com/?user=WaldoDoesTech&theme=highcontrast&hide_border=true">
+<img width="100px;" src="https://github-readme-stats.vercel.app/api?username=WaldoDoestech&theme=vision-friendly-dark&hide_border=true&count_private=true">
+<img width="100px;" src="https://streak-stats.demolab.com/?user=WaldoDoesTech&theme=highcontrast&hide_border=true">
 </p>
 <p align="center">
  My Tech Stack:
